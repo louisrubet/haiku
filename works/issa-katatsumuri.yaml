@@ -1,0 +1,36 @@
+id: issa-katatsumuri
+status: published
+added: "2026-11-20"
+author: kobayashi-issa
+form: hokku
+season: summer
+kigo: 蝸牛
+tags: [snail, mountain]
+original:
+  language: ja-Jpan
+  text: |-
+    蝸牛
+    そろそろ登れ
+    富士の山
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      katatsumuri
+      soro soro nobore
+      Fuji no yama
+  rights:
+    status: public-domain
+    basis: Author died in 1828.
+translations:
+  - language: fr-Latn
+    text: |-
+      Petit escargot
+      gravis tout doucement
+      le mont Fuji
+    translator: haiku-project
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.

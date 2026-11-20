@@ -1,0 +1,41 @@
+id: basho-furuike
+status: published
+added: "2026-11-20"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 蛙
+tags: [water, frog]
+original:
+  language: ja-Jpan
+  text: |-
+    古池や
+    蛙飛び込む
+    水の音
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      furuike ya
+      kawazu tobikomu
+      mizu no oto
+  composed: "1686"
+  first_published:
+    title: Haru no hi
+    title_original: 春の日
+    year: "1686"
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le vieil étang
+      une grenouille plonge
+      le bruit de l'eau
+    translator: haiku-project
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.

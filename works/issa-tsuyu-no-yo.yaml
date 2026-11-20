@@ -1,0 +1,42 @@
+id: issa-tsuyu-no-yo
+status: published
+added: "2026-11-20"
+author: kobayashi-issa
+form: hokku
+season: autumn
+kigo: 露
+tags: [dew, grief]
+original:
+  language: ja-Jpan
+  text: |-
+    露の世は
+    露の世ながら
+    さりながら
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      tsuyu no yo wa
+      tsuyu no yo nagara
+      sari nagara
+  composed: "1819"
+  first_published:
+    title: Oraga haru
+    title_original: おらが春
+    year: "1852"
+  rights:
+    status: public-domain
+    basis: Author died in 1828.
+translations:
+  - language: fr-Latn
+    text: |-
+      Ce monde de rosée
+      n'est qu'un monde de rosée
+      et pourtant… et pourtant…
+    translator: haiku-project
+    translated: "2026"
+    notes: Written after the death of Issa's daughter.
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.

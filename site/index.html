@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>haiku.rubet.fr</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
+  code { background: #8882; padding: 0 .2em; }
+  #haiku { white-space: pre-line; font-size: 1.3rem; margin: 2rem 0 .3rem; }
+  #author { opacity: .6; }
+</style>
+</head>
+<body>
+<h1>haiku.rubet.fr</h1>
+<p>An open database of haikus with their translations, served as static JSON.
+Source, schema and API: <a href="https://github.com/louisrubet/haiku">github.com/louisrubet/haiku</a>.</p>
+<p id="haiku"></p>
+<p id="author"></p>
+<script>
+  // Same selection rule as the API documentation: day number mod count.
+  (async () => {
+    const lang = 'fr-Latn';
+    const { count } = await (await fetch(`v1/${lang}/count.json`)).json();
+    const day = Math.floor(Date.now() / 86400000);
+    const item = await (await fetch(`v1/${lang}/${String(day % count).padStart(4, '0')}.json`)).json();
+    document.getElementById('haiku').textContent = item.text;
+    document.getElementById('author').textContent = item.author;
+  })();
+</script>
+</body>
+</html>

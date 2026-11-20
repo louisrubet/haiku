@@ -1,0 +1,37 @@
+id: shiki-kaki-kueba
+status: published
+added: "2026-11-20"
+author: masaoka-shiki
+form: haiku
+season: autumn
+kigo: 柿
+tags: [persimmon, temple, bell]
+original:
+  language: ja-Jpan
+  text: |-
+    柿食へば
+    鐘が鳴るなり
+    法隆寺
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      kaki kueba
+      kane ga naru nari
+      Hōryūji
+  composed: "1895"
+  rights:
+    status: public-domain
+    basis: Author died in 1902.
+translations:
+  - language: fr-Latn
+    text: |-
+      Je croque un kaki
+      et la cloche résonne
+      au temple Hōryū-ji
+    translator: haiku-project
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.

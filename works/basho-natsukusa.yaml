@@ -1,0 +1,41 @@
+id: basho-natsukusa
+status: published
+added: "2026-11-20"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 夏草
+tags: [grass, warriors]
+original:
+  language: ja-Jpan
+  text: |-
+    夏草や
+    兵どもが
+    夢の跡
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      natsukusa ya
+      tsuwamonodomo ga
+      yume no ato
+  composed: "1689"
+  first_published:
+    title: Oku no hosomichi
+    title_original: 奥の細道
+    year: "1702"
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Herbes d'été
+      c'est tout ce qui reste
+      des rêves des guerriers
+    translator: haiku-project
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.

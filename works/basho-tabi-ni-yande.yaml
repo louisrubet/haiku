@@ -1,0 +1,38 @@
+id: basho-tabi-ni-yande
+status: published
+added: "2026-11-20"
+author: matsuo-basho
+form: hokku
+season: winter
+kigo: 枯野
+tags: [journey, dreams, death]
+original:
+  language: ja-Jpan
+  text: |-
+    旅に病んで
+    夢は枯野を
+    かけ廻る
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      tabi ni yande
+      yume wa kareno o
+      kakemeguru
+  composed: "1694"
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Malade en voyage
+      mes rêves vagabondent encore
+      sur la lande desséchée
+    translator: haiku-project
+    translated: "2026"
+    notes: Bashō's last poem.
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.

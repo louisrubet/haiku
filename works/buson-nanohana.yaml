@@ -1,0 +1,37 @@
+id: buson-nanohana
+status: published
+added: "2026-11-20"
+author: yosa-buson
+form: hokku
+season: spring
+kigo: 菜の花
+tags: [moon, sun, flowers]
+original:
+  language: ja-Jpan
+  text: |-
+    菜の花や
+    月は東に
+    日は西に
+  romanization:
+    language: ja-Latn
+    system: Hepburn
+    text: |-
+      na no hana ya
+      tsuki wa higashi ni
+      hi wa nishi ni
+  composed: "1774"
+  rights:
+    status: public-domain
+    basis: Author died in 1784.
+translations:
+  - language: fr-Latn
+    text: |-
+      Fleurs de colza
+      la lune à l'est
+      le soleil à l'ouest
+    translator: haiku-project
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Translation written for this database.
