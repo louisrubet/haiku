@@ -18,11 +18,12 @@ Source, schema and API: <a href="https://github.com/louisrubet/haiku">github.com
 <p id="haiku"></p>
 <p id="author"></p>
 <script>
-  // Same selection rule as the API documentation: day number mod count.
+  // Same selection rule as the API documentation: local day number mod count.
   (async () => {
     const lang = 'fr-Latn';
     const { count } = await (await fetch(`v1/${lang}/count.json`)).json();
-    const day = Math.floor(Date.now() / 86400000);
+    const now = new Date();
+    const day = Math.floor(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) / 86400000);
     const item = await (await fetch(`v1/${lang}/${String(day % count).padStart(4, '0')}.json`)).json();
     document.getElementById('haiku').textContent = item.text;
     document.getElementById('author').textContent = item.author;

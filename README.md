@@ -62,9 +62,11 @@ Base URL: `https://haiku.rubet.fr/v1/`. Read-only static files, UTF-8 JSON.
 | `<lang>/count.json` | `{"count": N}` for one language, e.g. `fr-Latn` |
 | `<lang>/<NNNN>.json` | item `0000` to `N-1`: `text`, `author`, `translator`, `license`, `attribution`, `season`, `composed`, `id` |
 
-Haiku of the day: `day mod N`, where `day` is the number of days since 1970-01-01 and `N` comes from
-`count.json`. Clients compute it themselves, so the published files never expire.
-Items are numbered in id order: adding a work shifts the numbering, which is harmless for this use.
+Haiku of the day: `day mod N`, where `day` is the number of days since 1970-01-01 in the client's local
+calendar (so it changes at local midnight) and `N` comes from `count.json`. Clients compute it themselves, so
+the published files never expire.
+Items are numbered in a shuffled order, stable between builds, that spreads each author over the cycle: following
+days show unrelated haikus. Adding a work renumbers items and shifts the cycle, which is harmless for this use.
 
 `v1` stays backward compatible; a breaking change gets `v2`.
 

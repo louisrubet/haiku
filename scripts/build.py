@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import datetime
+import hashlib
 import json
 import shutil
 import sys
@@ -154,6 +155,31 @@ def write_json(path: Path, data) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":"), sort_keys=True) + "\n", encoding="utf-8")
 
 
+def unit_hash(*parts: str) -> float:
+    """Deterministic pseudo-random number in [0, 1): same input, same value on every build."""
+    digest = hashlib.sha256("\0".join(parts).encode("utf-8")).digest()
+    return int.from_bytes(digest[:8], "big") / 2**64
+
+
+def spread_order(items: list[dict]) -> list[dict]:
+    """Shuffled order that spreads each author evenly over the cycle (as music players spread an artist).
+
+    Clients show item (day mod count), so consecutive numbers are consecutive days: a plain id order would
+    show all the haikus of an author on following days. Each author's k items get positions (j + offset) / k,
+    with a per-author offset and an in-author order taken from hashes, so the result is stable between builds
+    and only changes when the set of items changes.
+    """
+    by_author: dict[str, list[dict]] = {}
+    for item in items:
+        by_author.setdefault(item["author"], []).append(item)
+    keyed = []
+    for author, group in by_author.items():
+        group.sort(key=lambda item: unit_hash("item", item["id"]))
+        offset = unit_hash("author", author)
+        keyed += [((j + offset) / len(group), unit_hash("item", item["id"]), item) for j, item in enumerate(group)]
+    return [item for _, _, item in sorted(keyed, key=lambda k: (k[0], k[1]))]
+
+
 def build(persons: dict, works: dict, out: Path) -> dict[str, int]:
     if out.exists():
         shutil.rmtree(out)
@@ -186,8 +212,10 @@ def build(persons: dict, works: dict, out: Path) -> dict[str, int]:
                     **({"composed": work["original"]["composed"]} if "composed" in work["original"] else {}),
                 }
             )
-    # Items are numbered per language in id order; a client picks one with (day-dependent value) mod count.
+    # Items are numbered per language in spread_order(); a client shows item (day mod count), so following days
+    # get unrelated haikus and an author's haikus are spread over the cycle.
     for language, items in by_language.items():
+        items = spread_order(items)
         write_json(api / language / "count.json", {"count": len(items)})
         for index, item in enumerate(items):
             write_json(api / language / f"{index:04d}.json", item)
