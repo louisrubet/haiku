@@ -1,0 +1,30 @@
+id: basho-ayu-no-ko
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 白魚
+original:
+  language: ja-Jpan
+  text: |-
+    鮎の子の
+    白魚おくる
+    別れ哉
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Les jeunes ayus
+      escortent les poissons blancs
+      c'est l'adieu
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Setting off on the Narrow Road: young disciples see off Bashō and Sora."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

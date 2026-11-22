@@ -1,0 +1,30 @@
+id: basho-ka-ni-nioe
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 梅
+original:
+  language: ja-Jpan
+  text: |-
+    香に匂へ
+    雲丹掘る岡の
+    梅の花
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Répands ton parfum
+      sur la colline de la tourbe
+      fleur de prunier
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Peat was dug near Iga and gave off a foul smell."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

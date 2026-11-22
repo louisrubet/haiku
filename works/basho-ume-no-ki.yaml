@@ -1,0 +1,30 @@
+id: basho-ume-no-ki
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 梅
+original:
+  language: ja-Jpan
+  text: |-
+    梅の木に
+    尙やどり木や
+    梅の花
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Sur le vieux prunier
+      encore un rameau greffé
+      fleurs de prunier
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Greeting to a poet whose father was a famous poet: the old tree and its new branch."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
