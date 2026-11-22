@@ -1,0 +1,30 @@
+id: basho-kane-kiete
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 花
+original:
+  language: ja-Jpan
+  text: |-
+    鐘消えて
+    花の香は撞く
+    夕哉
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      La cloche s'est tue
+      c'est le parfum des fleurs qui sonne
+      dans le soir
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Bashō inverts the image: after the bell, the scent of the blossoms seems to toll."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

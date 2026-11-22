@@ -1,0 +1,30 @@
+id: basho-tsuru-no-ke
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 花
+original:
+  language: ja-Jpan
+  text: |-
+    鶴の毛の
+    黒き衣や
+    花の雲
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Plumes noires de grue
+      ta robe de moine
+      dans un nuage de fleurs
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Farewell to a travelling monk in his black robe."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

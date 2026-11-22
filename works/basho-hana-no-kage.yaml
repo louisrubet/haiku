@@ -1,0 +1,30 @@
+id: basho-hana-no-kage
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 花
+original:
+  language: ja-Jpan
+  text: |-
+    花の陰
+    謡に似たる
+    旅寐哉
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      À l'ombre des fleurs
+      comme dans une pièce de nō
+      je dors en voyage
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Yoshino recalls the nō play Futari Shizuka, about Yoshitsune and Shizuka."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

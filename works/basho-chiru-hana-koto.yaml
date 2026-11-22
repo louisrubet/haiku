@@ -1,0 +1,30 @@
+id: basho-chiru-hana-koto
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 花
+original:
+  language: ja-Jpan
+  text: |-
+    散る花や
+    鳥も驚く
+    琴の塵
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Pétales qui tombent
+      même l'oiseau tressaille
+      poussière du koto
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "On a painting of a koto; the dust of the koto: music so fine it shakes dust from the rafters."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

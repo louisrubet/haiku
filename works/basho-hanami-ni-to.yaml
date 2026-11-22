@@ -1,16 +1,16 @@
-id: basho-okiyo
+id: basho-hanami-ni-to
 status: published
 added: "2026-11-22"
 author: matsuo-basho
 form: hokku
 season: spring
-kigo: 胡蝶
+kigo: 花
 original:
   language: ja-Jpan
   text: |-
-    起きよ起きよ
-    我友にせん
-    ぬる胡蝶
+    花見にと
+    さす舟遲し
+    柳原
   source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
   rights:
     status: public-domain
@@ -18,12 +18,11 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Réveille-toi, réveille-toi
-      je ferai de toi mon ami
-      papillon endormi
+      Partis voir les fleurs
+      les bateaux glissent lentement
+      rive des saules
     translator: claude-opus-5-5
     translated: "2026"
-    notes: "Echoes Zhuangzi's dream of being a butterfly."
     rights:
       status: licensed
       license: CC0-1.0
