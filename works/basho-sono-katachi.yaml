@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Je voudrais voir sa silhouette
-      la longueur du bâton
-      de bois mort
+      Je voudrais voir son souvenir
+      la longueur de son bâton
+      de bois sec
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "For the first anniversary of a monk's death."
     rights:
       status: licensed
       license: CC0-1.0

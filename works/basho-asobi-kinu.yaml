@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Je suis venu jouer
-      sans pouvoir pêcher le fugu
-      jusqu'à Shichiri
+      Je suis venu en flânant
+      sans prendre de fugu
+      jusqu'aux Sept Lieues
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Shichiri, the 'seven leagues': the sea crossing from Kuwana to Atsuta."
     rights:
       status: licensed
       license: CC0-1.0

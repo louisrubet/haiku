@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       J'écoute le grésil
-      ce corps redevenu
-      un vieux chêne
+      je reste ce que j'étais
+      vieille feuille de chêne
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "In his rebuilt hut: like a dead oak leaf that clings to its branch."
     rights:
       status: licensed
       license: CC0-1.0

@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Le paysage
-      d'un jardin de cent ans
+      Cent ans d'histoire
+      dans le paysage du jardin
       feuilles mortes
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Greeting to a temple."
     rights:
       status: licensed
       license: CC0-1.0

@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       Glace amère
-      elle humecte la gorge
-      du mulot
+      juste de quoi mouiller
+      une gorge de taupe
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Zhuangzi: the mole drinks from the river only enough to fill its belly."
     rights:
       status: licensed
       license: CC0-1.0

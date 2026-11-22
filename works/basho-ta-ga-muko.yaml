@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Gendre de qui donc
-      portant les gâteaux sur des fougères
+      À qui ce gendre
+      son bœuf chargé de mochi sur des fougères
       année du bœuf
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "A new son-in-law brings New Year rice cakes to his wife's parents."
     rights:
       status: licensed
       license: CC0-1.0

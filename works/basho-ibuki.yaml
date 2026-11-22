@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       De temps en temps
-      regarder le mont Ibuki
+      vous verrez le mont Ibuki
       retraite d'hiver
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Greeting to his host, whose house faced the snowy Mount Ibuki."
     rights:
       status: licensed
       license: CC0-1.0

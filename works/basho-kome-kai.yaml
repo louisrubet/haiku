@@ -19,8 +19,8 @@ translations:
   - language: fr-Latn
     text: |-
       Pour acheter du riz
-      un sac à neige
-      le capuchon de travers
+      un sac sous la neige
+      mon capuchon
     translator: claude-opus-5-5
     translated: "2026"
     rights:

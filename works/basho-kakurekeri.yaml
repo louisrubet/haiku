@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Il a disparu
-      dans la mer de décembre
+      Il a plongé
+      dans le lac de décembre
       le grèbe
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "The 'sea' is Lake Biwa, known as the grebe's sea."
     rights:
       status: licensed
       license: CC0-1.0

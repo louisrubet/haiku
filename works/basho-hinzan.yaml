@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      La cloche du temple pauvre
-      gémit sous le givre
+      Temple pauvre
+      la bouilloire chante sous le givre
       d'une voix froide
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Plays on a Chinese tale of the Fengshan bells that ring when frost falls."
     rights:
       status: licensed
       license: CC0-1.0

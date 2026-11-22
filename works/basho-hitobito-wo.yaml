@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Averse, tombe
-      sur tous ces gens
-      même si l'abri est froid
+      Averse
+      tombe donc sur nous tous
+      même si le gîte est froid
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Greeting at a poetry gathering at a disciple's house."
     rights:
       status: licensed
       license: CC0-1.0

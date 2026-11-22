@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Salé
-      je l'enverrai en message
+      Même salé
+      emporte-le en message
       oiseau de la capitale
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Parody of the Tales of Ise; farewell to a friend going back to Kyoto."
     rights:
       status: licensed
       license: CC0-1.0

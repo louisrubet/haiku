@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Partis de la capitale
-      les dieux aussi comptent
-      leurs nuits de voyage
+      Parti de la capitale
+      comme les dieux en voyage
+      tant de nuits en chemin
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "In the tenth month the gods leave for Izumo; Bashō's journey home took that whole month."
     rights:
       status: licensed
       license: CC0-1.0

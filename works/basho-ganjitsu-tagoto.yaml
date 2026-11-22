@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Au jour de l'an
-      c'est le soleil dans chaque rizière
-      qui me manque
+      Jour de l'an
+      le soleil dans chaque rizière en terrasse
+      me manque
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Recalls the moon reflected in each terraced paddy at Obasute, seen the autumn before."
     rights:
       status: licensed
       license: CC0-1.0

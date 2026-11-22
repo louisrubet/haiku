@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Le bruit du nattō qu'on hache
-      attends un peu
+      Toi qui haches le nattō
+      arrête un instant
       moine à la calebasse
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "At dawn in the cold season, Kūya monks pass beating gourds and chanting."
     rights:
       status: licensed
       license: CC0-1.0

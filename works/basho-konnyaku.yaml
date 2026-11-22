@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Sur le konnyaku
-      aujourd'hui l'emportent
-      les jeunes herbes
+      Le konnyaku
+      aujourd'hui se vend moins bien
+      que les jeunes herbes
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Seventh day of the year, when rice gruel with seven young herbs is eaten."
     rights:
       status: licensed
       license: CC0-1.0

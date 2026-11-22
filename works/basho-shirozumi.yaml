@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       Charbon blanc
-      comme la boîte d'Urashima
-      qui le fit vieillir
+      la boîte d'Urashima
+      blanchit en un instant
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Urashima opened a forbidden box and turned white-haired at once."
     rights:
       status: licensed
       license: CC0-1.0

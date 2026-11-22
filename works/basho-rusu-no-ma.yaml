@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Pendant leur absence
-      le sanctuaire délaissé
-      feuilles mortes
+      Pendant l'absence des dieux
+      le sanctuaire en friche
+      sous les feuilles mortes
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Back in Edo after more than two years away, in the month when the gods are absent."
     rights:
       status: licensed
       license: CC0-1.0

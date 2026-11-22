@@ -18,9 +18,9 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Avec la première neige
-      fais-toi une barbe
-      en peau de lapin
+      Première neige
+      donnez au lapin de neige
+      des moustaches
     translator: claude-opus-5-5
     translated: "2026"
     rights:

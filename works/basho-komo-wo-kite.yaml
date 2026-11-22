@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Vêtu d'une natte de paille
-      quel saint homme est là
+      Sous une natte de mendiant
+      quel sage se cache
       printemps en fleurs
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Hidden sages among beggars, as in the Senjūshō then attributed to Saigyō."
     rights:
       status: licensed
       license: CC0-1.0

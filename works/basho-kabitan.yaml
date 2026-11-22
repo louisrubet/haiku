@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       Même le capitaine hollandais
-      s'incline jusqu'à terre
-      printemps du seigneur
+      se prosterne
+      printemps du shogun
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Kapitan: head of the Dutch trading post, who came each spring to bow before the shogun."
     rights:
       status: licensed
       license: CC0-1.0

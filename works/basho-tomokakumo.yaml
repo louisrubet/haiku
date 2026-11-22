@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Sans aboutir à rien
+      Toujours pas mort
       sous la neige
       l'eulalie sèche
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Greeting to friends on his last return to Edo."
     rights:
       status: licensed
       license: CC0-1.0

@@ -20,9 +20,10 @@ translations:
     text: |-
       Une demi-journée
       avec les dieux pour amis
-      j'oublie l'année
+      fête de fin d'année
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Greeting to a Shinto priest who hosted the poets."
     rights:
       status: licensed
       license: CC0-1.0

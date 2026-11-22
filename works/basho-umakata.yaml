@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       Le muletier
-      ne saura rien de l'averse
-      sur la rivière Ōi
+      ne saura rien de cette averse
+      rivière Ōi
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Bashō has crossed the Ōi; the horseman went back to the far bank."
     rights:
       status: licensed
       license: CC0-1.0

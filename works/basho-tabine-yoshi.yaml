@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Bon gîte de voyage
-      l'auberge en décembre
+      Il fait bon voyager
+      ce gîte en décembre
       sous la lune du soir
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Greeting to his host."
     rights:
       status: licensed
       license: CC0-1.0

@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      La couleur de mes manches
-      salie et froide
-      gris souris foncé
+      La couleur des manches
+      salie, glacée
+      gris sombre du deuil
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Condolence poem for a disciple whose father had died."
     rights:
       status: licensed
       license: CC0-1.0

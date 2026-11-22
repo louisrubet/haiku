@@ -19,10 +19,11 @@ translations:
   - language: fr-Latn
     text: |-
       Premier givre
-      les chrysanthèmes prennent froid
-      ouate autour des reins
+      les chrysanthèmes ont froid
+      et moi, ouate autour des reins
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Thanks for a gift of padded cotton; chrysanthemums too are wrapped in cotton."
     rights:
       status: licensed
       license: CC0-1.0

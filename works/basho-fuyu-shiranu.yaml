@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Maison qui ignore l'hiver
+      Ici l'hiver n'entre pas
       le riz qu'on décortique
-      bruit de grésil
+      crépite comme le grésil
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Praise for a prosperous household."
     rights:
       status: licensed
       license: CC0-1.0

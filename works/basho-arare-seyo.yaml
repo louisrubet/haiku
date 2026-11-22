@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Grêle donc
-      je te servirai
-      les alevins des nasses
+      S'il grêle
+      je vous servirai les alevins
+      pris dans les nasses
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Welcoming a visitor to his hut by Lake Biwa."
     rights:
       status: licensed
       license: CC0-1.0

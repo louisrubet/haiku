@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Du Hira au Mikami
-      jette un pont de neige
-      pont de hérons
+      Hira et Mikami
+      hérons, jetez entre eux
+      un pont de neige
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Two mountains on either side of Lake Biwa."
     rights:
       status: licensed
       license: CC0-1.0

@@ -18,11 +18,12 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Ce Teikin ōrai
-      de quelle bibliothèque vient-il
+      Le Teikin ōrai
+      sorti du coffret de quel enfant
       aube du printemps
     translator: claude-opus-5-5
     translated: "2026"
+    notes: "Teikin ōrai: a letter-writing primer whose first lessons are New Year greetings."
     rights:
       status: licensed
       license: CC0-1.0
