@@ -1,0 +1,30 @@
+id: basho-kiso-no-jo
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 春の草
+original:
+  language: ja-Jpan
+  text: |-
+    木曽の情
+    雪や生えぬく
+    春の草
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le cœur de Kiso
+      à travers la neige perce
+      l'herbe de printemps
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "At Gichūji, the temple of the warrior Kiso Yoshinaka, where Bashō asked to be buried."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

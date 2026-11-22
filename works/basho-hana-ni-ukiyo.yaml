@@ -1,0 +1,30 @@
+id: basho-hana-ni-ukiyo
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 花
+original:
+  language: ja-Jpan
+  text: |-
+    花に浮世
+    我が酒白し
+    飯黒し
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le monde ivre de fleurs
+      mon saké est blanc
+      mon riz est noir
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "White: cloudy home-brewed saké; black: unpolished rice, the fare of the poor."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
