@@ -30,12 +30,13 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Le vieil étang
-      une grenouille plonge
-      le bruit de l'eau
-    translator: haiku-project
-    translated: "2026"
+      Ah! le vieil étang!
+      Et le bruit de l'eau
+      Où saute la grenouille!
+    translator: michel-revon
+    translated: "1910"
+    source: Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 387.
+    source_url: https://archive.org/details/anthologiedelal00revogoog/page/n400/mode/1up
     rights:
-      status: licensed
-      license: CC0-1.0
-      basis: Translation written for this database.
+      status: public-domain
+      basis: Translator died in 1947.

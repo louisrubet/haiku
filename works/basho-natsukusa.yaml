@@ -30,12 +30,13 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Herbes d'été
-      c'est tout ce qui reste
-      des rêves des guerriers
-    translator: haiku-project
-    translated: "2026"
+      Ah! les herbes de l'été!
+      Traces du rêve
+      Des nombreux guerriers!
+    translator: michel-revon
+    translated: "1910"
+    source: Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 386.
+    source_url: https://archive.org/details/anthologiedelal00revogoog/page/n399/mode/1up
     rights:
-      status: licensed
-      license: CC0-1.0
-      basis: Translation written for this database.
+      status: public-domain
+      basis: Translator died in 1947.

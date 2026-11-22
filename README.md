@@ -38,6 +38,10 @@ Verses are separated by line breaks, exactly as set by the author or the transla
 A person has a `name`, `name_original`, `born`, `died` and `wikidata` id. The death date is required to
 claim the public domain: the check applies the EU rule, death + 70 years.
 
+Translations: a published translation by a named translator, in the public domain or freely licensed, comes
+first, with its `source` and `source_url`. When none exists, a translation made by a language model is accepted,
+credited to that model as translator (`people/<id>.yaml` with `kind: model`) and released under CC0.
+
 ## Validate and build
 
 ```shell
@@ -77,7 +81,6 @@ open a pull request. Give the source of every text and the basis of its rights.
 
 ## Licenses
 
-- Data (`works/`, `people/`) and the translations credited to `haiku-project`: CC0 1.0, see `LICENSE-DATA`.
-  Translations credited to `haiku-project` were written for this database.
-- Other translations: the license stated in their `rights`.
+- Data (`works/`, `people/`) and the translations credited to a language model: CC0 1.0, see `LICENSE-DATA`.
+- Other translations: the rights stated in their `rights`.
 - Code (`scripts/`, `site/`, `schema/`): MIT, see `LICENSE`.

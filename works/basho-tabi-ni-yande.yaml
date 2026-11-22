@@ -26,13 +26,14 @@ original:
 translations:
   - language: fr-Latn
     text: |-
-      Malade en voyage
-      mes rêves vagabondent encore
-      sur la lande desséchée
-    translator: haiku-project
-    translated: "2026"
+      Tombé malade en voyage,
+      En rêve, sur une plaine déserte
+      Je me promène!
+    translator: michel-revon
+    translated: "1910"
+    source: Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 389.
+    source_url: https://archive.org/details/anthologiedelal00revogoog/page/n402/mode/1up
     notes: Bashō's last poem.
     rights:
-      status: licensed
-      license: CC0-1.0
-      basis: Translation written for this database.
+      status: public-domain
+      basis: Translator died in 1947.

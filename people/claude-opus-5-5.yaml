@@ -1,0 +1,4 @@
+id: claude-opus-5-5
+kind: model
+name: Claude Opus 5.5
+url: https://www.anthropic.com/claude
