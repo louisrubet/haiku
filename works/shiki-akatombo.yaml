@@ -1,0 +1,28 @@
+id: shiki-akatombo
+status: published
+added: "2026-11-22"
+author: masaoka-shiki
+form: haiku
+season: autumn
+kigo: 赤蜻蛉
+original:
+  language: ja-Jpan
+  text: |-
+    赤蜻蛉
+    筑波に雲も
+    なかりけり
+  rights:
+    status: public-domain
+    basis: Author died in 1902.
+translations:
+  - language: fr-Latn
+    text: |-
+      Libellules rouges
+      sur le mont Tsukuba
+      pas un nuage
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

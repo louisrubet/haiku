@@ -1,0 +1,28 @@
+id: buson-samidare-taiga
+status: published
+added: "2026-11-22"
+author: yosa-buson
+form: hokku
+season: summer
+kigo: さみだれ
+original:
+  language: ja-Jpan
+  text: |-
+    さみだれや
+    大河を前に
+    家二軒
+  rights:
+    status: public-domain
+    basis: Author died in 1784.
+translations:
+  - language: fr-Latn
+    text: |-
+      Pluies de juin
+      face au grand fleuve
+      deux maisons
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -1,0 +1,29 @@
+id: basho-kokonotabi
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 月
+original:
+  language: ja-Jpan
+  text: |-
+    九たび
+    起きても月の
+    七つかな
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      A neuf reprises
+      Bien que je me sois levé, d'après la lune
+      (Ce n'est que) la septième heure!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 388."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n401/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

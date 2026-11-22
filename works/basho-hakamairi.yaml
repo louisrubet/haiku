@@ -1,0 +1,29 @@
+id: basho-hakamairi
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 墓参り
+original:
+  language: ja-Jpan
+  text: |-
+    家はみな
+    杖に白髪の
+    墓参り
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Toute la famille,
+      Sur le bâton (appuyée), en cheveux blancs,
+      Visitant les tombeaux!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 389."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n402/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

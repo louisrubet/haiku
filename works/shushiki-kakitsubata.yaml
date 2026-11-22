@@ -1,0 +1,30 @@
+id: shushiki-kakitsubata
+status: published
+added: "2026-11-22"
+author: shushiki
+form: hokku
+season: summer
+kigo: 杜若
+original:
+  language: ja-Jpan
+  text: |-
+    見し夢の
+    さめても色の
+    杜若
+  rights:
+    status: public-domain
+    basis: Author died in 1725.
+translations:
+  - language: fr-Latn
+    text: |-
+      Du rêve que j'ai vu
+      Réveillée, toujours la couleur
+      De l'iris!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 394."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n407/mode/1up"
+    notes: "Farewell poem."
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

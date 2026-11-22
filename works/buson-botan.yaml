@@ -1,0 +1,28 @@
+id: buson-botan
+status: published
+added: "2026-11-22"
+author: yosa-buson
+form: hokku
+season: summer
+kigo: 牡丹
+original:
+  language: ja-Jpan
+  text: |-
+    牡丹散りて
+    打ちかさなりぬ
+    二三片
+  rights:
+    status: public-domain
+    basis: Author died in 1784.
+translations:
+  - language: fr-Latn
+    text: |-
+      La pivoine s'effeuille
+      et sur le sol s'empilent
+      deux, trois pétales
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

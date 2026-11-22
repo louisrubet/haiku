@@ -1,0 +1,28 @@
+id: buson-tsuki-tenshin
+status: published
+added: "2026-11-22"
+author: yosa-buson
+form: hokku
+season: autumn
+kigo: 月
+original:
+  language: ja-Jpan
+  text: |-
+    月天心
+    貧しき町を
+    通りけり
+  rights:
+    status: public-domain
+    basis: Author died in 1784.
+translations:
+  - language: fr-Latn
+    text: |-
+      La lune au zénith
+      je traverse
+      un quartier pauvre
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

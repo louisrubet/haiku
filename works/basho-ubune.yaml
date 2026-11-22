@@ -1,0 +1,29 @@
+id: basho-ubune
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 鵜舟
+original:
+  language: ja-Jpan
+  text: |-
+    おもしろうて
+    やがて悲しき
+    鵜舟かな
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      D'abord joyeux,
+      Et bientôt triste,
+      Le bateau de cormorans!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 388."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n401/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

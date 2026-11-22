@@ -1,0 +1,29 @@
+id: kikaku-natsu-no-tsuki
+status: published
+added: "2026-11-22"
+author: takarai-kikaku
+form: hokku
+season: summer
+kigo: 夏の月
+original:
+  language: ja-Jpan
+  text: |-
+    夏の月
+    蚊を疵にして
+    五百両
+  rights:
+    status: public-domain
+    basis: Author died in 1707.
+translations:
+  - language: fr-Latn
+    text: |-
+      Oh! la nuit d'été!
+      Avec le défaut des moustiques,
+      (Elle vaut) cinq cents ryô!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 390."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n403/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

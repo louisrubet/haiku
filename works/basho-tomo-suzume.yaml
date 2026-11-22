@@ -1,0 +1,29 @@
+id: basho-tomo-suzume
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 虻
+original:
+  language: ja-Jpan
+  text: |-
+    花にあそぶ
+    虻なくらひそ
+    友雀
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Moineau, mon ami!
+      Ne mange pas l'abeille
+      Qui se joue sur les fleurs!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 386."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n399/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

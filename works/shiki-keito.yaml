@@ -1,0 +1,28 @@
+id: shiki-keito
+status: published
+added: "2026-11-22"
+author: masaoka-shiki
+form: haiku
+season: autumn
+kigo: 鶏頭
+original:
+  language: ja-Jpan
+  text: |-
+    鶏頭の
+    十四五本も
+    ありぬべし
+  rights:
+    status: public-domain
+    basis: Author died in 1902.
+translations:
+  - language: fr-Latn
+    text: |-
+      Des crêtes-de-coq
+      il doit bien y en avoir
+      quatorze ou quinze
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

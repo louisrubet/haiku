@@ -1,0 +1,29 @@
+id: onitsura-gaikotsu
+status: published
+added: "2026-11-22"
+author: uejima-onitsura
+form: hokku
+season: spring
+kigo: 花見
+original:
+  language: ja-Jpan
+  text: |-
+    骸骨の
+    うへを粧ひて
+    花見かな
+  rights:
+    status: public-domain
+    basis: Author died in 1738.
+translations:
+  - language: fr-Latn
+    text: |-
+      De leurs squelettes
+      Le dessus ayant couvert,
+      Contemplation des fleurs!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 395."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n408/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

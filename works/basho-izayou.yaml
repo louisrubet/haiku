@@ -1,0 +1,29 @@
+id: basho-izayou
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: いざよふ
+original:
+  language: ja-Jpan
+  text: |-
+    やすやすと
+    出でていざよふ
+    月の雲
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Des nuages, la lune
+      Qui décroît, combien elle sort
+      Aisément!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 387."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n400/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

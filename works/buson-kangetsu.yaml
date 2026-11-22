@@ -1,0 +1,28 @@
+id: buson-kangetsu
+status: published
+added: "2026-11-22"
+author: yosa-buson
+form: hokku
+season: winter
+kigo: 寒月
+original:
+  language: ja-Jpan
+  text: |-
+    寒月や
+    門なき寺の
+    天高し
+  rights:
+    status: public-domain
+    basis: Author died in 1784.
+translations:
+  - language: fr-Latn
+    text: |-
+      Lune glacée
+      sur un temple sans portail
+      le ciel si haut
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

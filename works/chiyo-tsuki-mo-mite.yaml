@@ -1,0 +1,29 @@
+id: chiyo-tsuki-mo-mite
+status: published
+added: "2026-11-22"
+author: kaga-no-chiyojo
+form: hokku
+season: autumn
+kigo: 月
+original:
+  language: ja-Jpan
+  text: |-
+    月も見て
+    我はこの世を
+    かしく哉
+  rights:
+    status: public-domain
+    basis: Author died in 1775.
+translations:
+  - language: fr-Latn
+    text: |-
+      J'ai vu la lune aussi
+      et je prends congé
+      de ce monde
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Farewell poem."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

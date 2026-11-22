@@ -1,0 +1,29 @@
+id: kyoroku-kyu
+status: published
+added: "2026-11-22"
+author: morikawa-kyoroku
+form: hokku
+season: spring
+kigo: 春の風
+original:
+  language: ja-Jpan
+  text: |-
+    灸の点
+    干ぬ間も寒し
+    春の風
+  rights:
+    status: public-domain
+    basis: Author died in 1715.
+translations:
+  - language: fr-Latn
+    text: |-
+      Bien froid, l'intervalle avant que sèchent
+      Les points pour le moxa :
+      Brise du printemps!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 391."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n404/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

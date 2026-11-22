@@ -1,0 +1,28 @@
+id: issa-dai-no-ji
+status: published
+added: "2026-11-22"
+author: kobayashi-issa
+form: hokku
+season: summer
+kigo: 涼しさ
+original:
+  language: ja-Jpan
+  text: |-
+    大の字に
+    寝て涼しさよ
+    淋しさよ
+  rights:
+    status: public-domain
+    basis: Author died in 1828.
+translations:
+  - language: fr-Latn
+    text: |-
+      Couché bras en croix
+      quelle fraîcheur
+      quelle solitude
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

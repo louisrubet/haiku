@@ -1,0 +1,29 @@
+id: sora-hagi-no-hara
+status: published
+added: "2026-11-22"
+author: kawai-sora
+form: hokku
+season: autumn
+kigo: 萩
+original:
+  language: ja-Jpan
+  text: |-
+    行き行きて
+    たふれ伏すとも
+    萩の原
+  rights:
+    status: public-domain
+    basis: Author died in 1710.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le voyage...
+      Même si je tombe,
+      C'est sur des fleurs de haghi!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 392."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n405/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

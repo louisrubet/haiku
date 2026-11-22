@@ -1,0 +1,29 @@
+id: onitsura-natsu-wa-mata
+status: published
+added: "2026-11-22"
+author: uejima-onitsura
+form: hokku
+season: summer
+kigo: 夏
+original:
+  language: ja-Jpan
+  text: |-
+    夏はまた
+    冬がましじやと
+    いはれけり
+  rights:
+    status: public-domain
+    basis: Author died in 1738.
+translations:
+  - language: fr-Latn
+    text: |-
+      L'été, de nouveau :
+      « L'hiver est préférable, »
+      Disait-on.
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 395."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n408/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

@@ -1,0 +1,29 @@
+id: soin-oranda
+status: published
+added: "2026-11-22"
+author: nishiyama-soin
+form: hokku
+season: autumn
+kigo: 雁
+original:
+  language: ja-Jpan
+  text: |-
+    阿蘭陀の
+    文字か横たふ
+    天つ雁
+  rights:
+    status: public-domain
+    basis: Author died in 1682.
+translations:
+  - language: fr-Latn
+    text: |-
+      De Hollande
+      Les caractères s'étendent :
+      Telles les oies sauvages du ciel!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 383."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n396/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

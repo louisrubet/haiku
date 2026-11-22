@@ -1,0 +1,29 @@
+id: moritake-rakka
+status: published
+added: "2026-11-22"
+author: arakida-moritake
+form: hokku
+season: spring
+kigo: 胡蝶
+original:
+  language: ja-Jpan
+  text: |-
+    落花枝に
+    帰ると見れば
+    胡蝶かな
+  rights:
+    status: public-domain
+    basis: Author died in 1549.
+translations:
+  - language: fr-Latn
+    text: |-
+      Une fleur tombée, à sa branche
+      Comme je la vois revenir :
+      C'est un papillon!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 383."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n396/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

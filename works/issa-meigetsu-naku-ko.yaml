@@ -1,0 +1,28 @@
+id: issa-meigetsu-naku-ko
+status: published
+added: "2026-11-22"
+author: kobayashi-issa
+form: hokku
+season: autumn
+kigo: 名月
+original:
+  language: ja-Jpan
+  text: |-
+    名月を
+    とってくれろと
+    泣く子かな
+  rights:
+    status: public-domain
+    basis: Author died in 1828.
+translations:
+  - language: fr-Latn
+    text: |-
+      La pleine lune
+      il pleure pour qu'on la lui
+      décroche, l'enfant
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

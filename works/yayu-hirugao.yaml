@@ -1,0 +1,29 @@
+id: yayu-hirugao
+status: published
+added: "2026-11-22"
+author: yokoi-yayu
+form: hokku
+season: summer
+kigo: 昼顔
+original:
+  language: ja-Jpan
+  text: |-
+    昼顔や
+    どちらの露も
+    間に合はず
+  rights:
+    status: public-domain
+    basis: Author died in 1783.
+translations:
+  - language: fr-Latn
+    text: |-
+      Ah! le Visage-du-jour!
+      A qui aucune des rosées
+      N'arrive à temps!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 397."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n410/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

@@ -1,0 +1,29 @@
+id: shiki-hechima
+status: published
+added: "2026-11-22"
+author: masaoka-shiki
+form: haiku
+season: autumn
+kigo: 糸瓜
+original:
+  language: ja-Jpan
+  text: |-
+    糸瓜咲て
+    痰のつまりし
+    仏かな
+  rights:
+    status: public-domain
+    basis: Author died in 1902.
+translations:
+  - language: fr-Latn
+    text: |-
+      Les luffas fleurissent
+      un bouddha
+      la gorge encombrée
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "One of Shiki's last three poems."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

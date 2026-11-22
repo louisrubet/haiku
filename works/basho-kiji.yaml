@@ -1,0 +1,29 @@
+id: basho-kiji
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 雉
+original:
+  language: ja-Jpan
+  text: |-
+    蛇食ふと
+    聞けばおそろし
+    雉の声
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Qu'il mange les serpents,
+      En apprenant cela, combien terrible
+      La voix du faisan vert!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 388."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n401/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

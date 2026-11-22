@@ -1,0 +1,29 @@
+id: shiko-neko-no-koi
+status: published
+added: "2026-11-22"
+author: kagami-shiko
+form: hokku
+season: spring
+kigo: 猫の恋
+original:
+  language: ja-Jpan
+  text: |-
+    うき恋に
+    たへてや猫の
+    盗喰
+  rights:
+    status: public-domain
+    basis: Author died in 1731.
+translations:
+  - language: fr-Latn
+    text: |-
+      De ses douloureuses amours
+      Etait-il fatigué? Le chat
+      A volé quelque chose à manger.
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 392."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n405/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

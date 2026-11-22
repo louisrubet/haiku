@@ -1,0 +1,29 @@
+id: ransetsu-kogiku-shiragiku
+status: published
+added: "2026-11-22"
+author: hattori-ransetsu
+form: hokku
+season: autumn
+kigo: 菊
+original:
+  language: ja-Jpan
+  text: |-
+    黄菊白菊
+    其の外の名は
+    なくもがな
+  rights:
+    status: public-domain
+    basis: Author died in 1707.
+translations:
+  - language: fr-Latn
+    text: |-
+      Chrysanthèmes jaunes, chrysanthèmes blancs :
+      Ah! que je voudrais qu'il n'y eût
+      D'autres noms que ceux-là!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 390."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n403/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

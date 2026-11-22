@@ -1,0 +1,29 @@
+id: izen-shigure
+status: published
+added: "2026-11-22"
+author: hirose-izen
+form: hokku
+season: winter
+kigo: しぐれ
+original:
+  language: ja-Jpan
+  text: |-
+    しぐれけり
+    走り入りけり
+    晴れにけり
+  rights:
+    status: public-domain
+    basis: Author died in 1711.
+translations:
+  - language: fr-Latn
+    text: |-
+      L'averse est venue;
+      Je suis venu et rentré en courant;
+      Le ciel bleu est venu!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 393."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n406/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

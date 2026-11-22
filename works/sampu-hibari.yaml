@@ -1,0 +1,29 @@
+id: sampu-hibari
+status: published
+added: "2026-11-22"
+author: sugiyama-sampu
+form: hokku
+season: spring
+kigo: 雲雀
+original:
+  language: ja-Jpan
+  text: |-
+    子や待たん
+    余り雲雀の
+    高あがり
+  rights:
+    status: public-domain
+    basis: Author died in 1732.
+translations:
+  - language: fr-Latn
+    text: |-
+      Comme vont attendre ses enfants,
+      Pendant que s'élève si haut,
+      A l'excès, l'alouette!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 393."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n406/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

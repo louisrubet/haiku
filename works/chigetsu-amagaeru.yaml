@@ -1,0 +1,29 @@
+id: chigetsu-amagaeru
+status: published
+added: "2026-11-22"
+author: kawai-chigetsu
+form: hokku
+season: summer
+kigo: 雨蛙
+original:
+  language: ja-Jpan
+  text: |-
+    麦藁の
+    家してやらん
+    雨蛙
+  rights:
+    status: public-domain
+    basis: Author died in 1718.
+translations:
+  - language: fr-Latn
+    text: |-
+      De paille d'orge
+      Je te ferai une maison,
+      Grenouille religieuse!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 394."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n407/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

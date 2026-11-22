@@ -1,0 +1,28 @@
+id: basho-araumi
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 天河
+original:
+  language: ja-Jpan
+  text: |-
+    荒海や
+    佐渡によこたふ
+    天河
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Mer agitée
+      jusqu'à l'île de Sado s'étend
+      la Voie lactée
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -1,0 +1,28 @@
+id: shiki-haru-ya-mukashi
+status: published
+added: "2026-11-22"
+author: masaoka-shiki
+form: haiku
+season: spring
+kigo: 春
+original:
+  language: ja-Jpan
+  text: |-
+    春や昔
+    十五万石の
+    城下哉
+  rights:
+    status: public-domain
+    basis: Author died in 1902.
+translations:
+  - language: fr-Latn
+    text: |-
+      Printemps d'autrefois
+      la ville au pied du château
+      de cent cinquante mille koku
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

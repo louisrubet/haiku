@@ -1,0 +1,29 @@
+id: teishitsu-kore-wa
+status: published
+added: "2026-11-22"
+author: yasuhara-teishitsu
+form: hokku
+season: spring
+kigo: 花
+original:
+  language: ja-Jpan
+  text: |-
+    これはこれは
+    とばかり花の
+    吉野山
+  rights:
+    status: public-domain
+    basis: Author died in 1673.
+translations:
+  - language: fr-Latn
+    text: |-
+      Cela, cela
+      Seulement! En fleurs,
+      Le mont Yoshino!
+    translator: "michel-revon"
+    translated: "1910"
+    source: "Michel Revon, Anthologie de la littérature japonaise, des origines au XXe siècle, Paris, Delagrave, 5e éd., 1923, p. 383."
+    source_url: "https://archive.org/details/anthologiedelal00revogoog/page/n396/mode/1up"
+    rights:
+      status: public-domain
+      basis: "Translator died in 1947."

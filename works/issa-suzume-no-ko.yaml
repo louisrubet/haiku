@@ -1,0 +1,28 @@
+id: issa-suzume-no-ko
+status: published
+added: "2026-11-22"
+author: kobayashi-issa
+form: hokku
+season: spring
+kigo: 雀の子
+original:
+  language: ja-Jpan
+  text: |-
+    雀の子
+    そこのけそこのけ
+    御馬が通る
+  rights:
+    status: public-domain
+    basis: Author died in 1828.
+translations:
+  - language: fr-Latn
+    text: |-
+      Petit moineau
+      pousse-toi, pousse-toi
+      le cheval passe
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
