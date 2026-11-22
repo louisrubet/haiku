@@ -1,0 +1,30 @@
+id: basho-yuku-haru-omi
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: ゆく春
+original:
+  language: ja-Jpan
+  text: |-
+    ゆく春を
+    近江の人と
+    をしみけり
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le printemps s'en va
+      avec les gens d'Ōmi
+      nous l'avons regretté
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Ōmi: the province around Lake Biwa, where Bashō had many friends."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

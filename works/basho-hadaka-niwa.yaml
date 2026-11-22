@@ -1,0 +1,30 @@
+id: basho-hadaka-niwa
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 如月
+original:
+  language: ja-Jpan
+  text: |-
+    裸には
+    まだ如月の
+    嵐かな
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Pour aller nu
+      le vent de février
+      est encore trop rude
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Recalls the monk Zōga, who gave his clothes to beggars after praying at Ise and left naked."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

@@ -1,0 +1,30 @@
+id: basho-chichi-haha
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: spring
+kigo: 雉子
+original:
+  language: ja-Jpan
+  text: |-
+    父母の
+    しきりに恋し
+    雉子の声
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Père et mère
+      comme ils me manquent
+      cri du faisan
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Mount Kōya; echoes Gyōki: hearing the pheasant, I think of my father, of my mother."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
