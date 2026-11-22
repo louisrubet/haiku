@@ -1,0 +1,30 @@
+id: basho-mizu-no-oku
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 氷室
+original:
+  language: ja-Jpan
+  text: |-
+    水の奥
+    氷室尋ぬる
+    柳かな
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Je remonte l'eau
+      cherchant la glacière
+      sous les saules
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Greeting to a host: the water is so cool it must flow from an ice house."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

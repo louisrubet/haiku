@@ -1,0 +1,30 @@
+id: basho-furazutomo
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 竹醉日
+original:
+  language: ja-Jpan
+  text: |-
+    降らずとも
+    竹植うる日は
+    蓑と笠
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Même sans pluie
+      le jour où l'on plante les bambous
+      manteau de paille et chapeau
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Bamboo-planting day, 13th of the fifth month; a straw raincoat and hat suit the occasion."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

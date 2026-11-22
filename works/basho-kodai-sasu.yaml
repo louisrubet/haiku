@@ -1,0 +1,30 @@
+id: basho-kodai-sasu
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 凉し
+original:
+  language: ja-Jpan
+  text: |-
+    小鯛さす
+    柳凉しや
+    海士が軒
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Des petites dorades
+      enfilées sur une branche de saule
+      fraîcheur chez le pêcheur
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Small sea bream are skewered through the gills on willow twigs to dry."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

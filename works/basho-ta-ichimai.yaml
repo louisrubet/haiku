@@ -1,0 +1,30 @@
+id: basho-ta-ichimai
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 田植
+original:
+  language: ja-Jpan
+  text: |-
+    田一枚
+    植ゑて立ち去る
+    柳哉
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Toute une rizière
+      repiquée avant que je parte
+      le saule
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Under the willow celebrated by Saigyō, Bashō lingered while a whole field was planted."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

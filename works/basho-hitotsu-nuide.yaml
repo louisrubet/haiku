@@ -1,0 +1,30 @@
+id: basho-hitotsu-nuide
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 更衣
+original:
+  language: ja-Jpan
+  text: |-
+    一つ脫いで
+    後ろに負ひぬ
+    更衣
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      J'en ôte une
+      et la porte sur mon dos
+      changement d'habits
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "On the road on the first day of the fourth month, when winter clothes are put away."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

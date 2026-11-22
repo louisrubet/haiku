@@ -1,0 +1,29 @@
+id: basho-mogamigawa
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 暑
+original:
+  language: ja-Jpan
+  text: |-
+    暑き日を
+    海へ入れたり
+    最上川
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le jour brûlant
+      il l'a versé dans la mer
+      le fleuve Mogami
+    translator: claude-opus-5-5
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
