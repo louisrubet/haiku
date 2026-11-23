@@ -1,0 +1,30 @@
+id: basho-niwa-haite
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 柳散る
+original:
+  language: ja-Jpan
+  text: |-
+    庭掃いて
+    出ばや精舍に
+    散る柳
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Je balaierai la cour
+      avant de partir du temple
+      feuilles de saule qui tombent
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Guests at a temple swept the yard before leaving; on the Narrow Road, at Zenshōji."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

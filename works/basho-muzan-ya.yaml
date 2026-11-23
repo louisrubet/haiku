@@ -1,0 +1,30 @@
+id: basho-muzan-ya
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: きり〴〵す
+original:
+  language: ja-Jpan
+  text: |-
+    むざんやな
+    兜の下の
+    きりぎりす
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Quelle pitié
+      sous le casque du guerrier
+      un grillon
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Before the helmet of Saitō Sanemori, an old warrior who dyed his white hair to fight; on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

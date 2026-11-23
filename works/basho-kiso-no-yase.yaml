@@ -1,0 +1,30 @@
+id: basho-kiso-no-yase
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 後の月
+original:
+  language: ja-Jpan
+  text: |-
+    木曽の痩も
+    まだなほらぬに
+    後の月
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Amaigri par le Kiso
+      je ne m'en suis pas remis
+      et déjà la lune tardive
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Back at his hut after the hard Sarashina journey through the Kiso mountains."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
