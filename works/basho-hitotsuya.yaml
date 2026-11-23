@@ -26,3 +26,13 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
+  - language: en-Latn
+    text: |-
+      Courtesans [and I] slept in the same house,—the lespedeza and the moon.
+    translator: basil-hall-chamberlain
+    translated: "1902"
+    source: "Basil Hall Chamberlain, “Bashō and the Japanese Poetical Epigram”, Transactions of the Asiatic Society of Japan, vol. 30, part 2, 1902, p. 286."
+    source_url: https://archive.org/details/transactionsasi20japagoog/page/n313/mode/1up
+    rights:
+      status: public-domain
+      basis: Translator died in 1935.

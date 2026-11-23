@@ -27,3 +27,14 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      A rainy day in June, and yet
+      The sunflow’r bends to the sun’s course.
+    translator: basil-hall-chamberlain
+    translated: "1902"
+    source: "Basil Hall Chamberlain, “Bashō and the Japanese Poetical Epigram”, Transactions of the Asiatic Society of Japan, vol. 30, part 2, 1902, p. 324, no. 92."
+    source_url: https://archive.org/details/transactionsasi20japagoog/page/n351/mode/1up
+    rights:
+      status: public-domain
+      basis: Translator died in 1935.

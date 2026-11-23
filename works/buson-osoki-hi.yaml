@@ -27,3 +27,14 @@ translations:
     rights:
       status: public-domain
       basis: "Translator died in 1947."
+  - language: en-Latn
+    text: |-
+      Oh! distant past, made up of slow
+      But ever accumulating days!
+    translator: basil-hall-chamberlain
+    translated: "1902"
+    source: "Basil Hall Chamberlain, “Bashō and the Japanese Poetical Epigram”, Transactions of the Asiatic Society of Japan, vol. 30, part 2, 1902, p. 350, no. 176."
+    source_url: https://archive.org/details/transactionsasi20japagoog/page/n377/mode/1up
+    rights:
+      status: public-domain
+      basis: Translator died in 1935.

@@ -27,3 +27,14 @@ translations:
     rights:
       status: public-domain
       basis: "Translator died in 1947."
+  - language: en-Latn
+    text: |-
+      Together with one blossom more,
+      Oh! life, thou goest on thy way.
+    translator: basil-hall-chamberlain
+    translated: "1902"
+    source: "Basil Hall Chamberlain, “Bashō and the Japanese Poetical Epigram”, Transactions of the Asiatic Society of Japan, vol. 30, part 2, 1902, p. 346, no. 163."
+    source_url: https://archive.org/details/transactionsasi20japagoog/page/n373/mode/1up
+    rights:
+      status: public-domain
+      basis: Translator died in 1935.
