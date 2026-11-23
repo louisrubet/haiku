@@ -1,0 +1,30 @@
+id: basho-keito
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 雞頭
+original:
+  language: ja-Jpan
+  text: |-
+    鶏頭や
+    雁の来る時
+    尙赤し
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Crêtes-de-coq
+      quand viennent les oies sauvages
+      plus rouges encore
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Keitō, cockscomb, is also called 'red when the geese come'."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

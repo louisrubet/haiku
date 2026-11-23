@@ -1,0 +1,30 @@
+id: basho-imo-arau
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 芋
+original:
+  language: ja-Jpan
+  text: |-
+    芋洗ふ女
+    西行ならば
+    歌よまむ
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Femmes qui lavent les taros
+      si j'étais Saigyō
+      je vous ferais un poème
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Saigyō exchanged poems with a courtesan who refused him lodging."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
