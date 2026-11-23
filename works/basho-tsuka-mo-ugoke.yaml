@@ -1,0 +1,30 @@
+id: basho-tsuka-mo-ugoke
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 秋風
+original:
+  language: ja-Jpan
+  text: |-
+    塚も動け
+    わが泣声は
+    秋の風
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Que le tertre tremble
+      ma voix qui pleure
+      est le vent d'automne
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "At the memorial for his disciple Isshō, whom he had hoped to meet at Kanazawa."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

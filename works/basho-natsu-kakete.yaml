@@ -1,0 +1,30 @@
+id: basho-natsu-kakete
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 名月
+original:
+  language: ja-Jpan
+  text: |-
+    夏かけて
+    名月暑き
+    すゞみかな
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Depuis l'été
+      même sous la pleine lune il fait chaud
+      on prend le frais
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "In 1693, after a summer so hot that Bashō shut himself away."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

@@ -1,0 +1,30 @@
+id: basho-bara-tsuku
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 秋雨
+original:
+  language: ja-Jpan
+  text: |-
+    秋も早
+    ばらつく雨に
+    月の形
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Déjà l'automne
+      sous la pluie qui crépite
+      une forme de lune
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "One of his last poems, at Osaka, a few weeks before his death."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
