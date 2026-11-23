@@ -1,0 +1,30 @@
+id: basho-takamizu
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 七夕
+original:
+  language: ja-Jpan
+  text: |-
+    高水に
+    ほしも旅寝の
+    岩の上
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Fleuve en crue
+      les étoiles aussi dorment en voyage
+      sur un rocher
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Rain on Tanabata: the star lovers cannot cross the swollen River of Heaven."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

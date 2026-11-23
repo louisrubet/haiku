@@ -1,0 +1,30 @@
+id: basho-aki-suzushi
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 秋凉
+original:
+  language: ja-Jpan
+  text: |-
+    秋凉し
+    手毎にむけや
+    瓜茄子
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Fraîcheur d'automne
+      que chacun épluche
+      melons et aubergines
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Thanks for a simple meal at Kanazawa, on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

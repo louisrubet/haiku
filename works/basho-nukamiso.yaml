@@ -1,0 +1,30 @@
+id: basho-nukamiso
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 秋
+original:
+  language: ja-Jpan
+  text: |-
+    秋の色
+    糖味噌壺も
+    なかりけり
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Couleurs d'automne
+      il n'avait même pas
+      un pot de son fermenté
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "On a portrait of Kenkō, who wrote that a recluse should not even own a pot of pickling bran."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

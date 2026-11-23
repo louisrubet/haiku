@@ -1,0 +1,30 @@
+id: basho-kono-aki
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 秋
+original:
+  language: ja-Jpan
+  text: |-
+    此秋は
+    何で年寄る
+    雲に鳥
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Cet automne
+      pourquoi ai-je tant vieilli
+      un oiseau dans les nuages
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "One of Bashō's last poems, written a few weeks before his death."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
