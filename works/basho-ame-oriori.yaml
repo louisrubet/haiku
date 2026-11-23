@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Rain now and then
+      without a single care
+      the rice seedlings
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At an all-night vigil waiting for the sunrise."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

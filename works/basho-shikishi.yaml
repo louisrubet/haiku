@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Rains of May
+      on the wall, the marks
+      of poem cards torn away
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Leaving Rakushisha, where poem cards had once hung on the walls."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

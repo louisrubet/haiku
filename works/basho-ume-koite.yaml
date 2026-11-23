@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Longing for the plum
+      I bow to the deutzia flowers
+      in tears
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Elegy for the abbot Daiten, a lover of plum trees, who died in plum season."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

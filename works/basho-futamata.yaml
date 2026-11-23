@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      They have begun
+      to branch in two
+      the deer's antlers
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Parting from friends at Nara; antlers fork again and again, so we will meet again."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

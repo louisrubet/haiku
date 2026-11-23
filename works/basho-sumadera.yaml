@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Suma temple
+      I hear the flute no one plays
+      in the shade of the trees
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Suma temple keeps the flute of the young warrior Atsumori, killed nearby in 1184."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

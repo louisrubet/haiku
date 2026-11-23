@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Iris leaves
+      I'll tie them to my feet
+      as sandal cords
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At Sendai a painter gave him straw sandals with blue cords, like iris leaves of the Boys' festival."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

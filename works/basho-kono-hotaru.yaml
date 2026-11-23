@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      These fireflies
+      I'll compare them with the moon
+      in each terraced paddy
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Seta fireflies were famous; the moon reflected in each terraced paddy at Obasute too."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

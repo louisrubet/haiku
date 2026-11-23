@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Among the bindweed
+      I'd have liked a nap
+      at Mount Toko
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Note to a disciple he passed by without visiting."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

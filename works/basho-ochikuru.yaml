@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Down it drops
+      on Takaku post town
+      the cuckoo
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Near the Killing Stone, whose fumes were said to kill birds in flight."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

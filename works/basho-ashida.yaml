@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Summer mountains
+      bowing to the holy clogs
+      as I set out
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At a temple keeping the clogs of En no Gyōja, founder of mountain asceticism, on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

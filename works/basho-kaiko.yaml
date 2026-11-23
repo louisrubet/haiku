@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The rains of May
+      sick silkworms
+      in the mulberry field
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Sick silkworms were thrown out into the mulberry fields."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

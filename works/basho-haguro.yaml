@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      How cool it is!
+      a faint crescent moon
+      over Mount Haguro
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Mount Haguro, one of the three sacred mountains of Dewa, on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

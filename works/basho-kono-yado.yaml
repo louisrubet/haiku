@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      This house
+      even the water rail
+      doesn't know its door
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The water rail's call sounds like knocking on a door: a house so quiet no one knocks."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

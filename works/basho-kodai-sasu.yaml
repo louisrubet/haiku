@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Small sea bream
+      skewered on willow twigs
+      cool eaves of a fisherman
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Small sea bream are skewered through the gills on willow twigs to dry."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

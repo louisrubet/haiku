@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Fuji's wind
+      I bring it on my fan
+      a gift from Edo
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting on returning home to Iga from Edo."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      In the rains of May
+      I'll go and see the floating nests
+      of the grebes
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Announcing his coming journey west: grebes nest on Lake Biwa."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

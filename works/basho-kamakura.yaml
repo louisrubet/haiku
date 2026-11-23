@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      From Kamakura
+      it must have come still alive
+      the first bonito
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The first bonito of the year, landed at Kamakura and rushed alive to Edo, cost a fortune."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

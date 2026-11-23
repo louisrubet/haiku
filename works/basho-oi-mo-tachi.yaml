@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The pack box and the sword
+      display them in May
+      with paper banners
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At a temple keeping Yoshitsune's sword and Benkei's travel box; paper banners fly for the Boys' festival."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
