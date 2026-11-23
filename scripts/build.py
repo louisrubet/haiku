@@ -180,6 +180,15 @@ def spread_order(items: list[dict]) -> list[dict]:
     return [item for _, _, item in sorted(keyed, key=lambda k: (k[0], k[1]))]
 
 
+SEASONS = ("new-year", "spring", "summer", "autumn", "winter")
+
+
+def write_numbered(directory: Path, items: list[dict]) -> None:
+    write_json(directory / "count.json", {"count": len(items)})
+    for index, item in enumerate(items):
+        write_json(directory / f"{index:04d}.json", item)
+
+
 def build(persons: dict, works: dict, out: Path) -> dict[str, int]:
     if out.exists():
         shutil.rmtree(out)
@@ -214,14 +223,19 @@ def build(persons: dict, works: dict, out: Path) -> dict[str, int]:
             )
     # Items are numbered per language in spread_order(); a client shows item (day mod count), so following days
     # get unrelated haikus and an author's haikus are spread over the cycle.
+    # The same numbering per language and season under <language>/<season>/, for clients that show only the
+    # haikus of the current season.
+    season_counts: dict[str, dict[str, int]] = {}
     for language, items in by_language.items():
-        items = spread_order(items)
-        write_json(api / language / "count.json", {"count": len(items)})
-        for index, item in enumerate(items):
-            write_json(api / language / f"{index:04d}.json", item)
+        write_numbered(api / language, spread_order(items))
+        for season in SEASONS:
+            in_season = [item for item in items if item["season"] == season]
+            if in_season:
+                write_numbered(api / language / season, spread_order(in_season))
+                season_counts.setdefault(language, {})[season] = len(in_season)
 
     counts = {language: len(items) for language, items in sorted(by_language.items())}
-    write_json(api / "index.json", {"version": 1, "works": len(published), "languages": counts})
+    write_json(api / "index.json", {"version": 1, "works": len(published), "languages": counts, "seasons": season_counts})
     write_json(api / "works.json", {"ids": [w["id"] for w in published]})
     shutil.copytree(ROOT / "schema", out / "schema")
     shutil.copy(ROOT / "site" / "index.html", out / "index.html")

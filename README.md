@@ -60,15 +60,18 @@ Base URL: `https://haiku.rubet.fr/v1/`. Read-only static files, UTF-8 JSON.
 
 | Path | Content |
 |---|---|
-| `index.json` | number of published works and of translations per language |
+| `index.json` | number of published works, of translations per language, and per language and season |
 | `works.json` | ids of the published works |
 | `works/<id>.json` | a full work, people resolved |
 | `<lang>/count.json` | `{"count": N}` for one language, e.g. `fr-Latn` |
 | `<lang>/<NNNN>.json` | item `0000` to `N-1`: `text`, `author`, `translator`, `license`, `attribution`, `season`, `composed`, `id` |
+| `<lang>/<season>/count.json`, `<lang>/<season>/<NNNN>.json` | the same, restricted to one season: `new-year`, `spring`, `summer`, `autumn`, `winter` |
 
 Haiku of the day: `day mod N`, where `day` is the number of days since 1970-01-01 in the client's local
 calendar (so it changes at local midnight) and `N` comes from `count.json`. Clients compute it themselves, so
 the published files never expire.
+A seasonal client picks the season of the local date itself (traditional Japanese or meteorological calendar,
+northern hemisphere) and uses the files of that season. Works without a season are only in the full list.
 Items are numbered in a shuffled order, stable between builds, that spreads each author over the cycle: following
 days show unrelated haikus. Adding a work renumbers items and shifts the cycle, which is harmless for this use.
 
