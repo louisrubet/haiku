@@ -1,0 +1,30 @@
+id: basho-yu-wo-musubu
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 淸水
+original:
+  language: ja-Jpan
+  text: |-
+    湯を結ぶ
+    誓も同じ
+    苔清水
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Puisant l'eau chaude
+      le même vœu
+      qu'à la source sous la mousse
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "At the Nasu hot spring shrine, where the god of the Iwashimizu shrine was also worshipped."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

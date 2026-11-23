@@ -1,0 +1,30 @@
+id: basho-shimajima
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 夏の海
+original:
+  language: ja-Jpan
+  text: |-
+    島々や
+    千々に砕けて
+    夏の海
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Îles et îlots
+      brisée en mille éclats
+      la mer d'été
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Matsushima, the most famous view in Japan, on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

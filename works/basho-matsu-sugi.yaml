@@ -1,0 +1,30 @@
+id: basho-matsu-sugi
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 薰風
+original:
+  language: ja-Jpan
+  text: |-
+    松杉を
+    ほめてや風の
+    薫る音
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Louant les pins et les cèdres
+      le vent passe
+      avec un bruit parfumé
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "At the site of Fujiwara no Teika's mountain retreat at Ogura."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

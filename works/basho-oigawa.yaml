@@ -1,0 +1,30 @@
+id: basho-oigawa
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 五月雨
+original:
+  language: ja-Jpan
+  text: |-
+    五月雨の
+    雲吹き落せ
+    大井川
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Les nuages des pluies de mai
+      emporte-les donc
+      fleuve Ōi
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Held up on his last journey by the flooded Ōi river."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
