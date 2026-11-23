@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Seaweed soup
+      served up with a deft hand
+      in a pale blue bowl
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Thanks to his disciple Chiri at Asakusa, famous for its seaweed."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

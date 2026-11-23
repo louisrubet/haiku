@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      More moving than angelica
+      upon the grave
+      a violet
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Elegy for his disciple Rogan, who died far from home; tōki, angelica, also means 'go home'."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

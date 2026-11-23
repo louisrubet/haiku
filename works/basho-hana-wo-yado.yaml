@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Lodged with the blossoms
+      from first to last
+      some twenty days
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Thanks to a disciple who lodged him for the twenty days of the blossoms."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      At the young priestesses'
+      just one, and so dear
+      plum blossoms
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At Ise, the only plum tree grew behind the house of the shrine maidens."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

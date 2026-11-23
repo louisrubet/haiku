@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Spring night
+      I wonder who prays there
+      in a corner of the hall
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Hase temple, where people spent the night in prayer, often for love."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

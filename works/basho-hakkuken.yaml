@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Eight or nine yards
+      of rain still falling from the sky
+      the willow
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The rain has almost stopped, but it still drips under the wide willow."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

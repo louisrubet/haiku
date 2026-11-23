@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      At this plum tree
+      even an ox would surely low
+      its first song
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Plum and ox are emblems of Sugawara no Michizane; the first song is usually the bush warbler's."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

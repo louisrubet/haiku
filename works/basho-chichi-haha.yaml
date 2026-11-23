@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Father, mother
+      how I long for you
+      the pheasant's cry
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Mount Kōya; echoes Gyōki: hearing the pheasant, I think of my father, of my mother."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

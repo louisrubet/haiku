@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      I'd see it all the more
+      in the dawn among the blossoms
+      the face of the god
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Mount Katsuragi: its god Hitokotonushi, ashamed of his ugly face, worked only at night."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The spirit of Kiso
+      thrusting up through the snow
+      spring grass
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At Gichūji, the temple of the warrior Kiso Yoshinaka, where Bashō asked to be buried."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

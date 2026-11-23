@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The bell fades
+      and the scent of blossoms tolls
+      in the evening
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Bashō inverts the image: after the bell, the scent of the blossoms seems to toll."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      At Yoshino
+      I'll show you the cherry blossoms
+      my cypress hat
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Written inside the hat shared with his young disciple Tokoku for their trip to Yoshino."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

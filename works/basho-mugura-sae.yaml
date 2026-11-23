@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Even the weeds
+      have gentle young leaves
+      a ruined house
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "On a painting of a ruined house."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

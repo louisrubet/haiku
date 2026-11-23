@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Sixteen feet high
+      the heat haze rises
+      from the stone
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Ruined temple: the giant Buddha was gone, only its stone pedestal remained."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

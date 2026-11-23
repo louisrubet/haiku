@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Even the storks' nest
+      can be seen through the leaves
+      of the cherry blossoms
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Mountain cherries open their flowers and leaves together."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

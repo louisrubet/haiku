@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The world drunk on blossoms
+      my sake is white
+      my rice is black
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "White: cloudy home-brewed saké; black: unpolished rice, the fare of the poor."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

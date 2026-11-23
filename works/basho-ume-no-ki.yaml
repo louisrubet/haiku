@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      On the old plum tree
+      a new graft as well
+      plum blossoms
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to a poet whose father was a famous poet: the old tree and its new branch."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

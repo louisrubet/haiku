@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Within the sacred fence
+      quite unexpectedly
+      the dying Buddha
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At Ise, where Buddhist images were kept out, on the day of the Buddha's death."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
