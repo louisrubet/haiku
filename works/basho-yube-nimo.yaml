@@ -1,0 +1,29 @@
+id: basho-yube-nimo
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 瓜
+original:
+  language: ja-Jpan
+  text: |-
+    夕にも
+    朝にもつかず
+    瓜のはな
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Ni du soir
+      ni du matin
+      fleur de melon
+    translator: claude-opus-5-5
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

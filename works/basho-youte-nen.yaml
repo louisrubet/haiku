@@ -1,0 +1,29 @@
+id: basho-youte-nen
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 撫子
+original:
+  language: ja-Jpan
+  text: |-
+    酔うて寐ん
+    撫子咲ける
+    石の上
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Ivre, je dormirai
+      sur la pierre
+      où fleurissent les œillets
+    translator: claude-opus-5-5
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

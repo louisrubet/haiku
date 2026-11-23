@@ -1,0 +1,30 @@
+id: basho-shikishi
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 五月雨
+original:
+  language: ja-Jpan
+  text: |-
+    五月雨
+    色紙へぎたる
+    壁の跡
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Pluies de mai
+      sur le mur, les traces
+      des poèmes arrachés
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Leaving Rakushisha, where poem cards had once hung on the walls."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

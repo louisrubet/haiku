@@ -1,0 +1,30 @@
+id: basho-chisa-wa
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 茄子
+original:
+  language: ja-Jpan
+  text: |-
+    苣はまだ
+    青葉ながらに
+    茄子汁
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      La laitue
+      encore toute verte
+      et soupe d'aubergine
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Held up at Shimada by the flooded Ōi river, on his last journey."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

@@ -1,0 +1,30 @@
+id: basho-mayuhaki
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 紅の花
+original:
+  language: ja-Jpan
+  text: |-
+    眉掃を
+    俤にして
+    紅の花
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Évoquant
+      la houppette à sourcils
+      fleurs de carthame
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Obanazawa grew safflower for rouge; its flower recalls a woman's eyebrow brush."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

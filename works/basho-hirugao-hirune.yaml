@@ -1,0 +1,30 @@
+id: basho-hirugao-hirune
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 鼓子花
+original:
+  language: ja-Jpan
+  text: |-
+    昼顏に
+    昼寐せうもの
+    床の山
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Près des liserons
+      je ferais bien la sieste
+      au mont Toko
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Note to a disciple he passed by without visiting."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
