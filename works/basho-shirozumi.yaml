@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      White charcoal
+      like that box of Urashima's
+      that made him old
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Urashima opened a forbidden box and turned white-haired at once."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

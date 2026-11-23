@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Today, at least,
+      let us all grow old
+      first winter rain
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting at a poetry gathering: the first winter rain evokes old age."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

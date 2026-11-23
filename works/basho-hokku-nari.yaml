@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      A first verse, this:
+      Bashō Tōsei's
+      spring at home
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Written the spring after Bashō became a haikai master: the year opens like a first verse."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

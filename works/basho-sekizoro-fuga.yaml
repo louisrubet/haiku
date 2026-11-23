@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The year-end mummers come
+      and even poetry
+      is in the December rush
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Sekizoro: masked year-end street performers begging door to door."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

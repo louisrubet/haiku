@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      A poor temple
+      the kettle cries out in the frost
+      with a cold voice
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Plays on a Chinese tale of the Fengshan bells that ring when frost falls."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

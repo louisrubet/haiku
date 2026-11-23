@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      I came for the fun
+      without catching a fugu
+      as far as Seven Leagues
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Shichiri, the 'seven leagues': the sea crossing from Kuwana to Atsuta."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

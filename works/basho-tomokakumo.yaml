@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Somehow or other
+      not dead yet: snow
+      on withered pampas grass
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to friends on his last return to Edo."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Good to sleep on the road
+      my lodging in December
+      under the evening moon
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to his host."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

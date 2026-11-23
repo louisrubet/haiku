@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Whose son-in-law is this?
+      rice cakes borne on fern leaves
+      the Year of the Ox
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "A new son-in-law brings New Year rice cakes to his wife's parents."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

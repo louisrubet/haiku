@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Half a day
+      with the gods as friends
+      seeing the old year out
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to a Shinto priest who hosted the poets."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

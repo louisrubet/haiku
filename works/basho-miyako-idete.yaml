@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Leaving the capital
+      the gods too have spent
+      so many nights on the road
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "In the tenth month the gods leave for Izumo; Bashō's journey home took that whole month."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

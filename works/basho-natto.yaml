@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Chopping natto
+      hold the sound a while
+      gourd-beating monks
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At dawn in the cold season, Kūya monks pass beating gourds and chanting."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      On New Year's Day
+      it is the sun in each terraced paddy
+      that I long for
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Recalls the moon reflected in each terraced paddy at Obasute, seen the autumn before."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
