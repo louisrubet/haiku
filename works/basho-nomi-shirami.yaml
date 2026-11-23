@@ -1,0 +1,30 @@
+id: basho-nomi-shirami
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 蚤
+original:
+  language: ja-Jpan
+  text: |-
+    蚤虱
+    馬の尿する
+    枕もと
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Puces et poux
+      et le cheval qui pisse
+      près de mon oreiller
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "On the Narrow Road: stuck by the rain in a border guard's house."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

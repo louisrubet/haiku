@@ -1,0 +1,30 @@
+id: basho-akebono
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 時鳥
+original:
+  language: ja-Jpan
+  text: |-
+    曙や
+    まだ朔日に
+    ほとゝぎす
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      L'aube
+      le mois commence à peine
+      déjà le coucou
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "First day of the fourth month at Ishiyama temple, where Murasaki Shikibu is said to have written the Tale of Genji."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

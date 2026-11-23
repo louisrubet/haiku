@@ -1,0 +1,30 @@
+id: basho-shii-no-ki
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 夏木立
+original:
+  language: ja-Jpan
+  text: |-
+    先づたのむ
+    椎の木もあり
+    夏木立
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      D'abord, un abri
+      il y a aussi ce chêne
+      bosquet d'été
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Closing lines of his essay on the Hut of the Phantom Dwelling, near Lake Biwa."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

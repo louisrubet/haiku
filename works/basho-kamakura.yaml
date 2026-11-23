@@ -1,0 +1,30 @@
+id: basho-kamakura
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 初松魚
+original:
+  language: ja-Jpan
+  text: |-
+    鎌倉を
+    生きて出でけん
+    初松魚
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      De Kamakura
+      il est parti encore vivant
+      premier bonite
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "The first bonito of the year, landed at Kamakura and rushed alive to Edo, cost a fortune."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

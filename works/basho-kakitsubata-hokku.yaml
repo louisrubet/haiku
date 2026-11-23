@@ -1,0 +1,30 @@
+id: basho-kakitsubata-hokku
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 杜若
+original:
+  language: ja-Jpan
+  text: |-
+    杜若
+    われに発句の
+    思ひあり
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Iris d'eau
+      il me vient l'envie
+      d'un premier vers
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Echoes the Tales of Ise, where Narihira wrote a poem on irises during a journey."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

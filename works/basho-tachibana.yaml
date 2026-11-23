@@ -1,0 +1,30 @@
+id: basho-tachibana
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 橘
+original:
+  language: ja-Jpan
+  text: |-
+    橘や
+    いつの野中の
+    時鳥
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Fleurs d'oranger
+      en quels champs, en quel temps
+      ce coucou
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Echoes an old poem: the scent of orange blossom recalls the sleeves of someone once loved."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

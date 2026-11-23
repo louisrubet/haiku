@@ -1,0 +1,30 @@
+id: basho-ochikuru
+status: published
+added: "2026-11-22"
+author: matsuo-basho
+form: hokku
+season: summer
+kigo: 時鳥
+original:
+  language: ja-Jpan
+  text: |-
+    落ち来るや
+    高久の宿の
+    時鳥
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Le voilà qui tombe
+      sur l'étape de Takaku
+      le coucou
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Near the Killing Stone, whose fumes were said to kill birds in flight."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
