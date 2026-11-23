@@ -5,9 +5,6 @@ An open database of haikus and their translations, served as a static JSON API a
 
 Each poem is kept in its original language with its translations, and every text carries its
 rights: only public-domain originals and freely licensed translations are accepted.
-The data is device-agnostic; display constraints (fonts, line width) belong to the clients.
-The first client is the standby screen of a [GaggiMate](https://github.com/louisrubet/gaggimate) espresso
-machine display, which shows a new haiku every day.
 
 ## Repository layout
 
