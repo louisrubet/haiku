@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The moon is clear
+      on the sand that the wandering
+      monks have carried
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The wandering abbots of the Ji sect carry sand to the Kehi shrine at Tsuruga."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

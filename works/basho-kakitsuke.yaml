@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      From this day on
+      I'll wipe out the words on my hat
+      with the dew
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Parting from Sora; their hats bore the pilgrim's words 'we two travel together'."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

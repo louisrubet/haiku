@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Even through the silk tree's leaves
+      keep yourselves hidden
+      light of the lover stars
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Tanabata, when the two star lovers meet once a year; the mimosa folds its leaves at night."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

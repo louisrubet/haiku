@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Staying green
+      would have been fine as well
+      red pepper
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "To a young disciple impatient with his progress."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

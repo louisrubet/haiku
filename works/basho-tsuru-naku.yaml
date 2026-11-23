@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      If the crane should cry
+      at that voice the banana leaves
+      would surely tear
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "On a painting of a crane and a banana plant, whose leaves tear easily."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

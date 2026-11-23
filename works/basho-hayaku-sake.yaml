@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Bloom quickly
+      the ninth day is near
+      chrysanthemums of this house
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to a host at Ōgaki, before the Chrysanthemum Festival on the 9th."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The morning glories
+      know nothing of our drinking
+      and are in their prime
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Farewell party before the Sarashina journey."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Out in the world
+      is it the time of the rice harvest?
+      my grass hut
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Thanks for a gift of new rice."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

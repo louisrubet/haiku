@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      A drizzling sky
+      the very weather
+      for the hibiscus
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "On a painting by his disciple Kyoriku; the hibiscus wilts in strong sun."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

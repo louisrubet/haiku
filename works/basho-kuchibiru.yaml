@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      When I speak
+      my lips feel cold
+      the autumn wind
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Written as a motto: do not speak of others' faults, nor of your own merits."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

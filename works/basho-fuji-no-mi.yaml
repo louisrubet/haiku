@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Wisteria pods
+      let's make haikai of them
+      after the flowers
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "To a disciple living at Seki, a place linked to the poet Sōgi and to wisteria."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

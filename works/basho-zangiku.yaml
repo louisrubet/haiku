@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Like the sixteenth night's moon
+      which is lovelier this morning?
+      the lingering chrysanthemum
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The day after the Chrysanthemum Festival, a day late like the sixteenth-night moon."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

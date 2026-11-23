@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Kumasaka
+      who of his kin prays for him
+      at the festival of souls?
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Kumasaka Chōhan, a famous bandit killed by the young Yoshitsune; on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

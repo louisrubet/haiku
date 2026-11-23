@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      A lovely name
+      Little Pines, where wind blows
+      over clover and pampas
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Komatsu, 'little pines': a town on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Shake, grave mound!
+      my weeping voice
+      is the autumn wind
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "At the memorial for his disciple Isshō, whom he had hoped to meet at Kanazawa."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

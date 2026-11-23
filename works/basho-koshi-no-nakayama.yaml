@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Nakayama Pass
+      the moon on the northern road
+      is life once more
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Echoes Saigyō, who wrote 'it is life itself' on crossing the Sayo no Nakayama pass again in old age."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

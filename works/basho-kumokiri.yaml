@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Clouds and mist
+      in a moment have shown
+      a hundred views
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "On a view of Mount Fuji, ever changing through the clouds."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

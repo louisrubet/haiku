@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Nothing is hidden
+      in this house: vegetable soup
+      and red pepper
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Praise for the simple life of a doctor who welcomed him."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

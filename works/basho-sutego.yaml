@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      You who grieve at monkeys' cries
+      what of this abandoned child
+      in the autumn wind?
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Bashō passed a small abandoned child by the Fuji river; Chinese poets wept at the cries of monkeys."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

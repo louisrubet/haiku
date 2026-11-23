@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Rising again
+      the chrysanthemums, faintly
+      after the flood
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "His hut at Fukagawa stood on low ground that flooded easily."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

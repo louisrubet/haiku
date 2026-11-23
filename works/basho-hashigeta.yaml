@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      The ferns on the bridge piers
+      remember the moon
+      its last farewell
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The thirteenth-night moon, last moon viewing of the year; shinobu also means to remember."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

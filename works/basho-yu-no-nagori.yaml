@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Farewell to the hot spring
+      tonight my skin
+      will feel the cold
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Farewell to his young host at the Yamanaka hot spring, on the Narrow Road."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

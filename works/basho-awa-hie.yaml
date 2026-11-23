@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      With millet and barnyard grass
+      it is not poor at all
+      this grass hut
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to a monk at his hermitage."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

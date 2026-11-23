@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Moonrise glow
+      hands placed on our knees
+      all evening long
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "First poetry party at a new disciple's house: everyone sits stiffly."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

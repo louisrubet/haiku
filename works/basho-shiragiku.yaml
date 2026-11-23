@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      White chrysanthemum
+      look at it as hard as you may
+      not a speck of dust
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Greeting to the poet Sonome, written days before his death."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

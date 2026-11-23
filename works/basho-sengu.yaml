@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Awed by its holiness
+      everyone pushing and shoving
+      the shrine's removal
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "The Ise shrine is rebuilt every twenty years and the deity moved; Bashō saw it in 1689."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

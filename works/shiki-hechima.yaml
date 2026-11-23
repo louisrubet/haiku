@@ -27,3 +27,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
+  - language: en-Latn
+    text: |-
+      The sponge gourd blooms
+      and here a Buddha
+      choked with phlegm
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "One of Shiki's last three poems."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

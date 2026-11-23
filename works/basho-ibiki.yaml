@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Coming to the bed
+      it joins in with the snoring
+      the cricket
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "His disciple Shadō fell asleep and snored by Bashō's pillow."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

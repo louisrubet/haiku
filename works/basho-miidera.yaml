@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      I'd like to knock
+      on the gate of Miidera
+      tonight's moon
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Echoes Jia Dao: a monk knocks at the gate under the moon."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

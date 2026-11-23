@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Yamanaka
+      no need to pick chrysanthemums
+      the scent of the hot spring
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Chrysanthemum dew is said to give long life; the hot spring of Yamanaka is enough."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

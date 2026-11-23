@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      Morning glories
+      by day the gate in my fence
+      is locked
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Written when Bashō shut himself away and refused all visitors in 1693."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."

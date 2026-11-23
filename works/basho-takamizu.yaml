@@ -28,3 +28,15 @@ translations:
       status: licensed
       license: CC0-1.0
       basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
+  - language: en-Latn
+    text: |-
+      River in flood
+      the stars too sleep on the road
+      upon a rock
+    translator: "claude-opus-5-5"
+    translated: "2026"
+    notes: "Rain on Tanabata: the star lovers cannot cross the swollen River of Heaven."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: "Machine translation by Claude Opus 5.5 for this database, released under CC0."
