@@ -1,0 +1,30 @@
+id: basho-yugyo
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 名月
+original:
+  language: ja-Jpan
+  text: |-
+    月清し
+    遊行の持てる
+    砂の上
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Lune limpide
+      sur le sable qu'ont porté
+      les moines errants
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "The wandering abbots of the Ji sect carry sand to the Kehi shrine at Tsuruga."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

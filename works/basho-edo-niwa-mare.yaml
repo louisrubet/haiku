@@ -1,0 +1,29 @@
+id: basho-edo-niwa-mare
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 月
+original:
+  language: ja-Jpan
+  text: |-
+    眺むるや
+    江戸には稀な
+    山の月
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Je la contemple
+      si rare à Edo
+      la lune sur les montagnes
+    translator: claude-opus-5-5
+    translated: "2026"
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.

@@ -1,0 +1,30 @@
+id: basho-ukimido
+status: published
+added: "2026-11-23"
+author: matsuo-basho
+form: hokku
+season: autumn
+kigo: 十六夜
+original:
+  language: ja-Jpan
+  text: |-
+    鎖明けて
+    月さし入れよ
+    浮見堂
+  source_url: https://ja.wikisource.org/wiki/芭蕉俳句全集
+  rights:
+    status: public-domain
+    basis: Author died in 1694.
+translations:
+  - language: fr-Latn
+    text: |-
+      Ouvrez la serrure
+      laissez entrer la lune
+      au pavillon flottant
+    translator: claude-opus-5-5
+    translated: "2026"
+    notes: "Ukimidō: a temple pavilion built over Lake Biwa at Katata."
+    rights:
+      status: licensed
+      license: CC0-1.0
+      basis: Machine translation by Claude Opus 5.5 for this database, released under CC0.
